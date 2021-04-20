@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ee5902e-5191-4708-8db4-6606eec5a852" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rR0r2vaEJKfx2l5iYrP1UP08Ii" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app01/static/plugin" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\projects_2021\Job_demo\app01\static\plugin" />
+      <recent name="E:\projects_2021\Job_demo\app01\static\js" />
+      <recent name="E:\projects_2021\Job_demo\app01\static\plugin\echarts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\projects_2021\Job_demo\app01" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Job_demo" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Job_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Job_demo.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ee5902e-5191-4708-8db4-6606eec5a852" name="Default Changelist" comment="" />
+      <created>1618923789076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618923789076</updated>
+      <workItem from="1618924536426" duration="4944000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1618924878221">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1618924878221" />
+    <state width="1237" height="34" key="GridCell.Tab.0.bottom" timestamp="1618929814898">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="34" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1618929814898" />
+    <state width="1237" height="34" key="GridCell.Tab.0.center" timestamp="1618929814898">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="34" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1618929814898" />
+    <state width="1237" height="34" key="GridCell.Tab.0.left" timestamp="1618929814897">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="34" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1618929814897" />
+    <state width="1237" height="34" key="GridCell.Tab.0.right" timestamp="1618929814898">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="34" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1618929814898" />
+    <state x="297" y="-6" width="670" height="676" key="search.everywhere.popup" timestamp="1618929046154">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="-6" width="670" height="676" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1618929046154" />
+  </component>
+</project>
